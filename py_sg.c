@@ -11,6 +11,7 @@
  * GNU General Public License version 2 or later
  */
 
+#define PY_SSIZE_T_CLEAN
 #include <Python.h>
 
 #include <stdlib.h>
